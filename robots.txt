@@ -1,0 +1,316 @@
+
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+v
+User-agent: *
+Disallow: /
+
+v
+User-agent: *
+Disallow: /
+
+v
+v
+v
+User-agent: *
+Disallow: /
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+vUser-agent: *
+Disallow: /
+
+
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+v
+User-agent: *
+Disallow: /
+
+v
+User-agent: *
+Disallow: /
+
+v
+v
+v
+User-agent: *
+Disallow: /
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+vUser-agent: *
+Disallow: /
+
+
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+v
+User-agent: *
+Disallow: /
+
+v
+User-agent: *
+Disallow: /
+
+v
+v
+v
+User-agent: *
+Disallow: /
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+vUser-agent: *
+Disallow: /
+
+
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+v
+User-agent: *
+Disallow: /
+
+v
+User-agent: *
+Disallow: /
+
+v
+v
+v
+User-agent: *
+Disallow: /
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+vUser-agent: *
+Disallow: /
+
+
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+v
+User-agent: *
+Disallow: /
+
+v
+User-agent: *
+Disallow: /
+
+v
+v
+v
+User-agent: *
+Disallow: /
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+vUser-agent: *
+Disallow: /
+
+
